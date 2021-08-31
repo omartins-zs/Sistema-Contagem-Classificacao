@@ -1,0 +1,18 @@
+SITUAÇÃO-PROBLEMA 2 Dia 27/08
+
+OK Percorrer de ZERO até o numero de alunos
+
+ OK - Se o numero for par, escreva 'par' e o numero correspondente.
+ OK - Se o numero for impar, escreva 'impar' e o numero correspondente.
+ OK - Se o numero for ZERO, escreva 'ZERO'
+
+
+
+// Laco contado for
+*Pesquisar*
+
+DDoS
+
+Distributed Denial of Service
+
+Visual Studio Code Cheat Sheet
